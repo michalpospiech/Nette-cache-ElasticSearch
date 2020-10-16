@@ -1,0 +1,1 @@
+# Nette-cache-ElasticSearch
